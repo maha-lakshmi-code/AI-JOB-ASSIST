@@ -1,0 +1,24 @@
+# ── Core Flask ────────────────────────────────────────────────────────────────
+Flask==3.0.3
+Werkzeug==3.0.3
+
+# ── Resume Parsing ────────────────────────────────────────────────────────────
+pypdf==4.3.1               # replaces deprecated PyPDF2
+python-docx==1.1.2
+
+# ── AI / ML — Job Matching (REAL AI) ─────────────────────────────────────────
+sentence-transformers==3.0.1   # all-MiniLM-L6-v2 semantic embeddings
+scikit-learn==1.5.1            # cosine_similarity
+numpy==1.26.4
+torch==2.3.1                   # required by sentence-transformers (CPU build)
+
+# ── Data Handling ─────────────────────────────────────────────────────────────
+pandas==2.2.2
+
+# ── HTTP Requests (for external job APIs) ─────────────────────────────────────
+requests==2.32.3
+
+# ── Optional: PDF generation for resume download ─────────────────────────────
+# xhtml2pdf is optional — the app falls back to HTML download if not installed.
+# Uncomment only if you want PDF download support:
+# xhtml2pdf==0.2.16

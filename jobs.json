@@ -1,0 +1,362 @@
+[
+  {
+    "title": "Python Backend Developer",
+    "company": "TechSolutions India",
+    "location": "Bangalore, India",
+    "description": "Build and maintain scalable REST APIs using Python and Flask. Work with PostgreSQL and Redis databases, write unit and integration tests, collaborate with frontend teams, and deploy services on AWS using Docker. Code reviews, agile ceremonies, CI/CD pipelines with Jenkins.",
+    "skills": "Python Flask REST API PostgreSQL Redis Docker AWS Jenkins CI/CD",
+    "apply_link": "https://www.naukri.com/python-developer-jobs-in-bangalore",
+    "source": "Dataset"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Analytics Corp",
+    "location": "Hyderabad, India",
+    "description": "Apply supervised and unsupervised machine learning algorithms to real-world business problems. Build predictive models using scikit-learn and TensorFlow, perform feature engineering, conduct exploratory data analysis with pandas and matplotlib, and present insights to stakeholders.",
+    "skills": "Python Machine Learning TensorFlow scikit-learn pandas numpy matplotlib statistics EDA",
+    "apply_link": "https://www.naukri.com/data-scientist-jobs-in-hyderabad",
+    "source": "Dataset"
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "WebCraft Studios",
+    "location": "Pune, India",
+    "description": "Develop responsive web interfaces using React.js and TypeScript. Implement UI components with CSS and Bootstrap, integrate with backend REST APIs, optimize performance, and ensure cross-browser compatibility. Experience with Redux and Webpack preferred.",
+    "skills": "React.js TypeScript JavaScript HTML CSS Bootstrap Redux REST API Webpack",
+    "apply_link": "https://www.naukri.com/frontend-developer-jobs-in-pune",
+    "source": "Dataset"
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "InnovateTech",
+    "location": "Chennai, India",
+    "description": "Design and implement full stack web applications using React for frontend and Node.js or Python Flask for backend. Manage SQL and NoSQL databases, build REST APIs, implement authentication using JWT, deploy to cloud platforms.",
+    "skills": "React Node.js Python Flask SQL MongoDB JWT REST API HTML CSS JavaScript",
+    "apply_link": "https://www.naukri.com/full-stack-developer-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "InsightHub",
+    "location": "Mumbai, India",
+    "description": "Analyze large datasets using Python and SQL, create interactive dashboards in Power BI and Tableau, generate business reports, perform statistical analysis, track KPIs, and communicate findings clearly to non-technical stakeholders.",
+    "skills": "Python SQL Excel Power BI Tableau data visualization statistical analysis KPI reporting",
+    "apply_link": "https://www.naukri.com/data-analyst-jobs-in-mumbai",
+    "source": "Dataset"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "DeepMind Labs",
+    "location": "Bangalore, India",
+    "description": "Research and implement deep learning models for NLP and computer vision use cases. Train and fine-tune neural networks using PyTorch and TensorFlow, optimize model performance, deploy models to production using FastAPI and Docker, work with large language models.",
+    "skills": "Python PyTorch TensorFlow deep learning NLP computer vision FastAPI Docker MLOps",
+    "apply_link": "https://www.naukri.com/machine-learning-engineer-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "CloudOps India",
+    "location": "Hyderabad, India",
+    "description": "Manage cloud infrastructure on AWS and Azure, automate CI/CD pipelines using Jenkins and GitHub Actions, containerize applications with Docker and orchestrate with Kubernetes, implement monitoring with Prometheus and Grafana, ensure high availability and security.",
+    "skills": "AWS Azure Docker Kubernetes Jenkins GitHub Actions CI/CD Terraform Ansible Linux monitoring",
+    "apply_link": "https://www.naukri.com/devops-engineer-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "AI/NLP Engineer",
+    "company": "LinguaTech",
+    "location": "Noida, India",
+    "description": "Build NLP pipelines for text classification, named entity recognition, and sentiment analysis. Fine-tune transformer models like BERT and GPT, work with Hugging Face libraries, build conversational AI chatbots, and deploy models via REST APIs.",
+    "skills": "Python NLP BERT GPT transformers Hugging Face text classification sentiment analysis chatbot",
+    "apply_link": "https://www.naukri.com/nlp-engineer-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "Cloud Engineer",
+    "company": "SkyScale Solutions",
+    "location": "Bangalore, India",
+    "description": "Design, implement, and maintain cloud infrastructure on AWS. Work with EC2, S3, Lambda, RDS, and VPC. Implement Infrastructure as Code using Terraform and CloudFormation, manage cost optimization, ensure security compliance, and support disaster recovery planning.",
+    "skills": "AWS EC2 S3 Lambda RDS VPC Terraform CloudFormation cloud security cost optimization",
+    "apply_link": "https://www.naukri.com/cloud-engineer-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "Cybersecurity Analyst",
+    "company": "SecureNet India",
+    "location": "Delhi, India",
+    "description": "Conduct vulnerability assessments, penetration testing, and security audits. Monitor networks for threats using SIEM tools, respond to security incidents, implement firewalls and IDS/IPS, perform ethical hacking, and maintain security policies.",
+    "skills": "network security penetration testing ethical hacking SIEM firewalls incident response Kali Linux cryptography",
+    "apply_link": "https://www.naukri.com/cybersecurity-analyst-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "Mobile App Developer",
+    "company": "AppVerse Technologies",
+    "location": "Pune, India",
+    "description": "Develop cross-platform mobile applications using Flutter and React Native. Integrate REST APIs, implement Firebase for authentication and real-time data, publish apps to Play Store and App Store, write unit tests, and optimize app performance.",
+    "skills": "Flutter React Native Android iOS Firebase REST API Dart JavaScript mobile testing",
+    "apply_link": "https://www.naukri.com/mobile-developer-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "UI/UX Designer",
+    "company": "DesignFirst Studio",
+    "location": "Mumbai, India",
+    "description": "Create user-centered designs through wireframing and prototyping in Figma. Conduct user research and usability testing, design design systems and component libraries, collaborate closely with frontend developers, and create engaging visual interfaces.",
+    "skills": "Figma UI design UX wireframing prototyping user research usability testing design systems",
+    "apply_link": "https://www.naukri.com/ux-designer-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "DataFlow Systems",
+    "location": "Bangalore, India",
+    "description": "Build and maintain scalable ETL/ELT data pipelines using Apache Spark and Airflow. Design data warehouses and data lakes on AWS, work with Hadoop and Hive, optimize query performance in BigQuery and Snowflake, ensure data quality and governance.",
+    "skills": "Python SQL Apache Spark Airflow ETL Hadoop Hive AWS S3 BigQuery Snowflake data pipelines",
+    "apply_link": "https://www.naukri.com/data-engineer-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "QA Automation Engineer",
+    "company": "QualityFirst Tech",
+    "location": "Hyderabad, India",
+    "description": "Design and implement automated test frameworks using Selenium and Pytest. Write API test suites using Postman and REST Assured, perform performance testing with JMeter, manage test plans, collaborate with developers in an agile environment, and report defects.",
+    "skills": "Selenium Pytest Python automation testing API testing Postman JMeter agile bug tracking JIRA",
+    "apply_link": "https://www.naukri.com/qa-automation-engineer-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "Business Analyst",
+    "company": "BizInsight Consulting",
+    "location": "Chennai, India",
+    "description": "Gather and document business requirements, create use cases and user stories, analyze workflows and propose process improvements, facilitate communication between stakeholders and development teams, prepare detailed reports and presentations, conduct gap analysis.",
+    "skills": "requirements analysis stakeholder management documentation SQL Jira Confluence agile communication",
+    "apply_link": "https://www.naukri.com/business-analyst-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "Product Manager",
+    "company": "ProductLab India",
+    "location": "Bangalore, India",
+    "description": "Define product vision, strategy, and roadmap. Prioritize features based on user research and business impact, write detailed product specifications, collaborate with engineering and design teams, track key metrics, conduct market research, and manage product launches.",
+    "skills": "product strategy roadmap agile user research market analysis stakeholder management metrics A/B testing",
+    "apply_link": "https://www.naukri.com/product-manager-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "Digital Marketing Manager",
+    "company": "GrowthHive Agency",
+    "location": "Mumbai, India",
+    "description": "Plan and execute digital marketing campaigns across SEO, SEM, social media, and email channels. Manage Google Ads and Meta Ads campaigns, analyze performance using Google Analytics, create content strategies, manage social media presence, optimize conversion rates.",
+    "skills": "SEO SEM Google Ads Meta Ads social media Google Analytics content marketing email marketing CRO",
+    "apply_link": "https://www.naukri.com/digital-marketing-manager-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "HR Executive",
+    "company": "PeopleFirst HR",
+    "location": "Delhi, India",
+    "description": "Manage end-to-end recruitment processes, conduct interviews, onboard new employees, maintain employee records in HRMS, handle payroll processing, coordinate training sessions, implement HR policies, assist with performance reviews and employee engagement initiatives.",
+    "skills": "recruitment talent acquisition onboarding HRMS payroll performance management employee engagement communication",
+    "apply_link": "https://www.naukri.com/hr-executive-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "Financial Analyst",
+    "company": "FinAnalytics India",
+    "location": "Mumbai, India",
+    "description": "Conduct financial modeling and valuation analysis, prepare monthly financial reports and forecasts, analyze budget variances, support strategic planning with data-driven insights, create dashboards in Excel and Power BI, and present findings to senior management.",
+    "skills": "financial modeling Excel Power BI forecasting budgeting variance analysis valuation financial reporting",
+    "apply_link": "https://www.naukri.com/financial-analyst-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "Content Writer",
+    "company": "ContentCraft India",
+    "location": "Bangalore, India",
+    "description": "Research and write SEO-optimized blog posts, website copy, whitepapers, and marketing materials. Develop content strategies, edit and proofread content, collaborate with marketing teams, analyze content performance, and maintain editorial calendars.",
+    "skills": "writing editing SEO content strategy blog posts copywriting research editorial communication",
+    "apply_link": "https://www.naukri.com/content-writer-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "Sales Executive",
+    "company": "SalesEdge Solutions",
+    "location": "Hyderabad, India",
+    "description": "Identify and generate new business opportunities, manage the full sales cycle from prospecting to closing, build relationships with clients, achieve monthly revenue targets, maintain CRM records in Salesforce, conduct product demos, and negotiate contracts.",
+    "skills": "sales B2B lead generation CRM Salesforce negotiation communication target achievement client management",
+    "apply_link": "https://www.naukri.com/sales-executive-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "Accountant",
+    "company": "FinServe India",
+    "location": "Chennai, India",
+    "description": "Manage day-to-day bookkeeping, prepare monthly profit and loss statements and balance sheets, file GST returns, handle accounts payable and receivable, maintain Tally records, support statutory audits, and ensure compliance with Indian tax regulations.",
+    "skills": "accounting Tally GST bookkeeping financial statements auditing taxation accounts payable receivable",
+    "apply_link": "https://www.naukri.com/accountant-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "Graphic Designer",
+    "company": "PixelPerfect Studio",
+    "location": "Pune, India",
+    "description": "Create visual concepts using Adobe Photoshop and Illustrator, design marketing materials including brochures, banners, social media graphics, and brand identity elements, collaborate with marketing teams, ensure brand consistency, and prepare print-ready artwork.",
+    "skills": "Adobe Photoshop Illustrator InDesign graphic design branding visual communication typography layout",
+    "apply_link": "https://www.naukri.com/graphic-designer-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "Network Engineer",
+    "company": "NetConnect India",
+    "location": "Bangalore, India",
+    "description": "Design, configure, and maintain enterprise network infrastructure including routers, switches, and firewalls. Implement VLAN, OSPF, BGP routing protocols, troubleshoot network issues, monitor performance, ensure network security, and support VPN deployments.",
+    "skills": "networking Cisco routing switching VLAN OSPF BGP firewalls network security VPN troubleshooting",
+    "apply_link": "https://www.naukri.com/network-engineer-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "Operations Manager",
+    "company": "OpsExcellence Co",
+    "location": "Delhi, India",
+    "description": "Oversee daily business operations, manage cross-functional teams, streamline supply chain processes, implement lean methodologies to reduce costs, track operational KPIs, liaise with vendors and clients, prepare executive-level reports, and drive continuous improvement.",
+    "skills": "operations management supply chain lean methodology project management team leadership KPI reporting vendor management",
+    "apply_link": "https://www.naukri.com/operations-manager-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "Android Developer",
+    "company": "MobileDev India",
+    "location": "Bangalore, India",
+    "description": "Build native Android applications using Kotlin and Java. Implement MVVM architecture, integrate Retrofit for API calls, use Room for local database storage, implement push notifications with Firebase Cloud Messaging, publish apps to Google Play Store, and write unit tests with JUnit.",
+    "skills": "Android Kotlin Java MVVM Retrofit Room Firebase Jetpack Compose JUnit Google Play Store",
+    "apply_link": "https://www.naukri.com/android-developer-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "Database Administrator",
+    "company": "DataGuard Systems",
+    "location": "Hyderabad, India",
+    "description": "Manage and optimize PostgreSQL and MySQL database systems. Design database schemas, write complex queries and stored procedures, implement backup and recovery strategies, monitor performance, tune indexes, ensure data security, and support application teams.",
+    "skills": "PostgreSQL MySQL Oracle SQL database design stored procedures backup performance tuning indexing",
+    "apply_link": "https://www.naukri.com/database-administrator-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "Blockchain Developer",
+    "company": "ChainTech India",
+    "location": "Pune, India",
+    "description": "Develop smart contracts using Solidity on Ethereum and Polygon networks. Build DeFi and NFT applications using Web3.js and ethers.js, integrate MetaMask wallet, design tokenomics, perform smart contract audits for security vulnerabilities, and work with IPFS.",
+    "skills": "Solidity Ethereum smart contracts Web3.js DeFi NFT blockchain Polygon MetaMask IPFS",
+    "apply_link": "https://www.naukri.com/blockchain-developer-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "Customer Success Manager",
+    "company": "ClientFirst Tech",
+    "location": "Mumbai, India",
+    "description": "Manage portfolio of enterprise client accounts, onboard new customers, drive product adoption, handle escalations, conduct quarterly business reviews, track NPS and churn metrics, collaborate with sales and product teams, and ensure customer satisfaction and retention.",
+    "skills": "customer success account management client relations onboarding NPS retention communication CRM",
+    "apply_link": "https://www.naukri.com/customer-success-manager-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "Software Architect",
+    "company": "ArchVision Technology",
+    "location": "Bangalore, India",
+    "description": "Design high-level system architecture for enterprise applications. Define technical standards and coding guidelines, evaluate technology choices, design microservices and event-driven architectures, mentor senior developers, conduct architectural reviews, and ensure scalability and reliability.",
+    "skills": "system design microservices architecture design patterns scalability cloud AWS event-driven CQRS mentoring",
+    "apply_link": "https://www.naukri.com/software-architect-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "Embedded Systems Engineer",
+    "company": "EmbedCore India",
+    "location": "Chennai, India",
+    "description": "Develop firmware and embedded software for IoT and industrial devices using C and C++. Program microcontrollers like ARM Cortex and STM32, implement RTOS, develop device drivers, perform hardware debugging with oscilloscopes, and work with communication protocols like I2C, SPI, UART.",
+    "skills": "C C++ embedded systems ARM microcontrollers RTOS device drivers I2C SPI UART firmware IoT",
+    "apply_link": "https://www.naukri.com/embedded-systems-engineer-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "SAP Consultant",
+    "company": "SAP Services India",
+    "location": "Bangalore, India",
+    "description": "Implement and configure SAP ERP modules including FI, CO, MM, and SD. Gather business requirements, design solutions, perform system configuration, run testing cycles, support go-live, conduct end-user training, and manage change requests.",
+    "skills": "SAP ERP FI CO MM SD ABAP configuration business analysis testing training",
+    "apply_link": "https://www.naukri.com/sap-consultant-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "Supply Chain Analyst",
+    "company": "LogiTech Solutions",
+    "location": "Delhi, India",
+    "description": "Analyze supply chain data to identify inefficiencies, forecast demand, optimize inventory levels, track procurement and vendor performance, create dashboards in Excel and Power BI, prepare reports for management, and support strategic sourcing decisions.",
+    "skills": "supply chain logistics demand forecasting inventory management Excel Power BI procurement data analysis",
+    "apply_link": "https://www.naukri.com/supply-chain-analyst-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "Video Editor",
+    "company": "MediaCraft Studio",
+    "location": "Mumbai, India",
+    "description": "Edit promotional videos, corporate films, and social media reels using Adobe Premiere Pro and After Effects. Create motion graphics, color grade footage, add sound design, manage video project timelines, collaborate with directors and marketing teams.",
+    "skills": "Adobe Premiere Pro After Effects video editing motion graphics color grading sound design",
+    "apply_link": "https://www.naukri.com/video-editor-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "IT Support Specialist",
+    "company": "TechSupport Hub",
+    "location": "Hyderabad, India",
+    "description": "Provide Level 1 and Level 2 technical support to end users. Troubleshoot hardware, software, and network issues, manage Active Directory user accounts, handle ticketing using ServiceNow, configure Windows and macOS systems, and maintain IT asset inventory.",
+    "skills": "troubleshooting hardware software networking Active Directory ServiceNow Windows macOS IT support ITIL",
+    "apply_link": "https://www.naukri.com/it-support-specialist-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "Marketing Manager",
+    "company": "BrandGrowth India",
+    "location": "Bangalore, India",
+    "description": "Develop and execute integrated marketing strategies to grow brand awareness and revenue. Manage marketing team, oversee campaigns across digital and traditional channels, conduct competitor analysis, manage marketing budget, measure ROI, and collaborate with sales teams.",
+    "skills": "marketing strategy branding campaign management team management budget planning market research ROI analysis",
+    "apply_link": "https://www.naukri.com/marketing-manager-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "React Native Developer",
+    "company": "CrossPlatform Labs",
+    "location": "Pune, India",
+    "description": "Build high-performance cross-platform mobile apps for iOS and Android using React Native and TypeScript. Integrate GraphQL and REST APIs, implement state management with Redux Toolkit, use native modules, ensure accessibility, write tests with Jest, and publish to app stores.",
+    "skills": "React Native TypeScript iOS Android GraphQL REST API Redux Jest native modules mobile development",
+    "apply_link": "https://www.naukri.com/react-native-developer-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "Site Reliability Engineer",
+    "company": "Reliability Works",
+    "location": "Bangalore, India",
+    "description": "Ensure reliability and performance of production systems. Define and track SLOs and SLIs, build observability stacks with Prometheus, Grafana and ELK, automate toil with Python and Bash, manage on-call rotations, perform root cause analysis, and improve system resilience.",
+    "skills": "SRE SLO SLI monitoring Prometheus Grafana ELK Python Bash incident management Linux automation",
+    "apply_link": "https://www.naukri.com/site-reliability-engineer-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "Game Developer",
+    "company": "GameForge Studios",
+    "location": "Hyderabad, India",
+    "description": "Design and develop 2D and 3D games using Unity engine with C#. Implement gameplay mechanics, AI behaviors for NPCs, physics systems, UI using Unity Canvas, optimize performance, integrate monetization SDKs, and publish games to mobile and PC platforms.",
+    "skills": "Unity C# game development 3D modeling gameplay AI physics mobile gaming optimization",
+    "apply_link": "https://www.naukri.com/game-developer-jobs",
+    "source": "Dataset"
+  },
+  {
+    "title": "HR Manager",
+    "company": "TalentBridge India",
+    "location": "Chennai, India",
+    "description": "Lead end-to-end talent acquisition and HR operations. Develop HR policies, manage employee relations and grievances, oversee performance management cycles, implement learning and development programs, manage HR budgets, ensure compliance with labor laws, and drive culture initiatives.",
+    "skills": "talent acquisition HR policies performance management employee relations learning development compliance leadership",
+    "apply_link": "https://www.naukri.com/hr-manager-jobs",
+    "source": "Dataset"
+  }
+]
