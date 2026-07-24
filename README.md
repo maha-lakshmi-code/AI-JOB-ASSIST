@@ -114,3 +114,71 @@ ADZUNA_API_KEY=your-key
 SERPAPI_KEY=your-key
 JOOBLE_API_KEY=your-key
 ```
+## Screenshots
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Resume Analysis
+![ATS](screenshots/ats.png)
+
+### Job Recommendations
+![Jobs](screenshots/jobs.png)
+
+### Resume Builder
+![Resume Builder](screenshots/builder.png)
+
+## Features
+
+- User Registration & Login
+- Resume Upload (PDF/DOCX)
+- Resume Parsing
+- ATS Score Calculation
+- Skill Extraction
+- AI-Based Job Recommendation
+- Job Fraud Detection
+- Resume Builder
+- Application Tracking
+- Admin Dashboard
+
+  ## Tech Stack
+
+**Frontend**
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+
+**Backend**
+- Python
+- Flask
+
+**Database**
+- SQLite
+
+**AI & Machine Learning**
+- Sentence Transformers
+- Scikit-learn
+- NLP
+
+**Libraries**
+- pypdf
+- python-docx
+- NumPy
+- Pandas
+
+  ## Future Improvements
+
+- Company Verification using MCA API
+- AI Resume Rewriting
+- Interview Preparation Module
+- Email Notifications
+- Multi-language Support
+- Recruiter Dashboard
+
+  ## License
+
+This project is developed for educational and learning purposes.
